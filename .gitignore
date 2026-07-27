@@ -1,0 +1,55 @@
+# =============================================================================
+# CasePilot — .gitignore
+# =============================================================================
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+eggs/
+*.egg
+.Python
+
+# Virtual Environment
+venv/
+env/
+.venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testing
+.pytest_cache/
+htmlcov/
+.coverage
+*.cover
+
+# Logs
+*.log
+logs/
+
+# Data
+*.csv
+*.parquet
+data/
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS
+Thumbs.db

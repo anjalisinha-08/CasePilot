@@ -1,0 +1,1 @@
+"""CasePilot — Streamlit dashboard module."""

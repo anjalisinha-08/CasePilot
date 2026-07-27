@@ -1,0 +1,1 @@
+"""CasePilot — Utility functions module."""
